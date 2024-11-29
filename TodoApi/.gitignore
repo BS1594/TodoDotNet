@@ -1,0 +1,24 @@
+# Build Folders
+bin/
+obj/
+
+# IDE Settings
+.vs/
+.idea/
+
+# User-specific Files
+*.user
+*.suo
+*.csproj.user
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.bak
+
+# Secrets
+appsettings*.json
+!appsettings.json
+
+# NuGet Dependencies
+packages/
